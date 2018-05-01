@@ -24,7 +24,7 @@ public class linearconversions extends javax.swing.JFrame {
      * the result of the conversion is sent to the label: outputResult
      * @param value
      * value is the number the user enters in the text field: inputValue
-     * parameter: value is also universal to all 4 methods
+     * parameter: value is also universal to all 4 conversion methods
      * @return 
      */
     private double inchesToCentimetres(double value) {
